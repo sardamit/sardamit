@@ -7,6 +7,6 @@ The following is the list of my silly side projects:
 
 ## Contact
 Amit Sarda
-Online: [Website](https://www.amitsarda.xyz) | [NewsLetter](https://news.amitsarda.xyz/) 
-Contact: [Email](mailto:hello@amitsarda.xyz) | [WhatsApp](https://wa.me/919860665934) | [Calendar](https://cal.com/amitsarda/consultation)
-Socials: [LinkedIn](https://www.linkedin.com/in/sardamit) | [Twitter](https://www.twitter.com/sardamit)
+- Online: [Website](https://www.amitsarda.xyz) | [NewsLetter](https://news.amitsarda.xyz/) 
+- Contact: [Email](mailto:hello@amitsarda.xyz) | [WhatsApp](https://wa.me/919860665934) | [Calendar](https://cal.com/amitsarda/consultation)
+- Socials: [LinkedIn](https://www.linkedin.com/in/sardamit) | [Twitter](https://www.twitter.com/sardamit)
