@@ -4,6 +4,7 @@ The following is the list of my silly side projects:
 - [altdirectory.fyi](https://www.altdirectory.fyi): find alternatives for 400+ SaaS/software
 - [d2c.fyi](https://www.d2c.fyi): find everything about D2C brands in India
 - [comparecosts.fyi](https://www.comparecosts.fyi): compare software costs to make the right software selection decisions
+- [crmtools.fyi](https://www.crmtools.fyi): tools to help you select the right CRM
 
 ## Contact
 Amit Sarda
